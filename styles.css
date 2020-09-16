@@ -1,5 +1,12 @@
 
- 
+ .container{
+   
+ }
+
+ .img-fluid{
+  height:70px;
+ }
+
  footer {
     
    position: relative;
@@ -8,11 +15,11 @@
     color:black;
     text-align: center;
    
-    margin-top:570px;
+    margin-top:700px;
  }
 
  .card-body{
-   background-color:#e3f2fd;
+   background-color:unset;
  }
 
  .nav-link {
@@ -27,4 +34,20 @@
   
    
  }
+
+ .nav-link{
+   color:white;
+   font-weight: bold;
+ }
+
+ .p{
+   color:white;
+ }
+
+ .nav-item{
+   text-align: center;
+ }
  
+ h6{
+   color:white;
+ }
